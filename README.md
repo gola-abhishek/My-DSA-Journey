@@ -1,7 +1,14 @@
 # My-DSA-Journey
 
-Welcome! This repository contains my ongoing practice and learning journey in **Data Structures and Algorithms (DSA)**.
+Welcome!
 
-I'm committed to improving my problem-solving skills by tackling problems from platforms like LeetCode, GeeksforGeeks, and Codeforces.
+This repository contains my ongoing practice and learning journey in **Data Structures and Algorithms (DSA) with JAVA**.
 
+📌 Topics covered: Basics,Arrays,Recursion(in progress)
+
+💻 Languages used:Java
+
+I will update this repo regularly as part of my learning journey.
+
+#100DaysOfCode #DSA #CodingJourney #LearningInPublic
 ---
